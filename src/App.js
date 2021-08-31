@@ -19,5 +19,5 @@ export default class App extends Component {
               peopleInSpace: json.people,
             });
           });
-      }
+    }
 }
